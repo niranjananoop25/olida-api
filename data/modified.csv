@@ -1,0 +1,8 @@
+gene_name,combo_id,combo_disease,disease_icd,partner_genes
+ABCA13,OLI935,Schizophrenia,,ABCA13|SCN9A|SYT14
+ABCA7,OLI787,Arthrogryposis syndrome,Q68.8,ABCA7|ADNP|COL6A3
+ABCA7,OLI788,Arthrogryposis syndrome,Q68.8,ABCA7|ADNP|COL6A3
+ABCA7,OLI799,Arthrogryposis syndrome,Q68.8,ABCA7|ADNP|COL6A3
+ABCC6,OLI301,Pseudoxanthoma elasticum,Q82.8,ABCC6|GGCX
+ABCC8,OLI004,Idiopathic pulmonary arterial hypertension,I27.0,ABCC8|NOTCH3
+ABCC8,OLI005,Pulmonary arterial hypertension associated with congenital heart disease,I27.2,ABCC8|NOTCH3
